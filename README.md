@@ -33,8 +33,6 @@ pnpm run dev
 * components.json - UI configuration
 * vite.config.ts - Vite configuration
 
-## Author
-
 ## Authors
 
 - Joshikas B.P.
