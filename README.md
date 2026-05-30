@@ -37,5 +37,5 @@ pnpm run dev
 
 Joshikas B.P.
 
-Jayasri M
+Jayasri M.
 Computer Science & Engineering Student
