@@ -35,7 +35,8 @@ pnpm run dev
 
 ## Author
 
-Joshikas B.P.
+## Authors
 
-Jayasri M.
-Computer Science & Engineering Student
+- Joshikas B.P.
+- Jayasri M
+  - Computer Science & Engineering Student
